@@ -1,6 +1,6 @@
 cask "prosciutto" do
-  version "0.1.0"
-  sha256 "b9d154d1a92625e0d8957e3a2b4976ed4ea38a5f5d4afa0ede450fb91a160f2e"
+  version "0.2.0"
+  sha256 "8754c5f160cc630af1ddcc372a67da4b6b4ec65114a2dc3612cf052041e1e59d"
 
   url "https://github.com/amirchuosho/prosciutto/releases/download/v#{version}/Prosciutto-#{version}.dmg",
       verified: "github.com/amirchuosho/prosciutto/"
